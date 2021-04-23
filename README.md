@@ -1,4 +1,4 @@
-# EFI-Hackintosh-B460M-Aorus-Pro-Core-i5-10400-RX-580-wifi-intel-AX200
+## EFI-Hackintosh-B460m-Aorus-Pro--IntelCore-i5-10400-RX-580-wifi-intel-AX200
 
 ## Specs
 - Motherboard: Gigabyte Aorus B460m Pro
