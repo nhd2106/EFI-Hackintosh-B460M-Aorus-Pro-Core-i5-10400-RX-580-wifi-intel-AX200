@@ -7,6 +7,12 @@
 - RAM: 2x8GB Kingston Hyper FuryX
 - SSD: WD SN750n Black 500Gb
 - Wifi Intel AX200
-## Opencore Version: 0.63
-## MacOS Version: 11.0.1
+## Opencore Version: 0.68
+## MacOS Version: Catalina lastest version
 ## Bios F3 
+
+## Notice
+- if you desire to run newest MacOS version, please update the AX200 WIFI kext by your own.
+- link: https://github.com/OpenIntelWireless/itlwm/releases
+
+-------------------HAPPY HACKINTOSHING------------------------
