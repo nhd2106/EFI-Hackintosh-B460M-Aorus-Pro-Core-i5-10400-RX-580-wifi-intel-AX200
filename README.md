@@ -9,9 +9,11 @@
 - SSD: WD SN750n Black 500Gb
 - Wifi Intel AX200
 
-## Opencore Version: 0.76
+## Opencore Version: 0.7.6
 
 ## MacOS Version: Montery 12.0.1
+
+![System Image!](/images/system.png "System image")
 
 ## Bios F3
 
